@@ -1,0 +1,251 @@
+.col-sm-8 {
+	background-color: #c0c9ce;
+}
+.col-sm-4 {
+	background-color: #f0e2d2;
+}
+img {
+	width: 100%;
+	height: 100%;
+}
+/* section
+{
+    display: inline;
+} */
+/* p {
+	height: 30%;
+} */
+/* aca emoieza lo bueno xdxdx */
+#contenedorImagenUsuario {
+	height: 33vh;
+	padding: 0%;
+}
+#imagenUsuario {
+	background-image: url(https://webtoon-phinf.pstatic.net/20201005_9/1601882012306IOIsT_JPEG/16018820122281720770.jpg?type=q90);
+	background-position: center top;
+	background-size: 100%;
+	background-size: cover;
+	height: 100%;
+}
+/* .container {
+	height: 33vh;
+} */
+#contenedorParte1Grande {
+	height: 100%;
+}
+#nombresSeccion {
+	background-color: rebeccapurple;
+	padding: 0px;
+	height: 63%;
+}
+#nombres {
+	padding: 0px;
+}
+h1 {
+	color: white;
+	font-family: 'Playfair Display', serif;
+	background-color: #4e757b;
+	margin: 0px;
+	height: 50%;
+	padding: 2%;
+}
+#contenedorDescripcion {
+	background-color: #60909c;
+	margin: 0px;
+	height: 50%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+#descripDebajoTitulo {
+	font-family: 'Playfair Display', serif;
+	color: white;
+	/* top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%); */
+}
+#imagenPequeUno {
+	background-color: #60909c;
+	height: 50%;
+	background-image: url(https://www.flaticon.com/svg/static/icons/svg/69/69656.svg);
+	background-size: 40%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#imagenPequeDos {
+	background-color: #649ca4;
+	height: 50%;
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Lime_Logos-wiki-01.svg/langfr-280px-Lime_Logos-wiki-01.svg.png);
+	background-size: 60%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#imagenesAlLadoNombre {
+	padding: 0px;
+	margin: 0px;
+}
+#seisIconosPequenos {
+	height: 37%;
+}
+#im1 {
+	background-color: #f0e2d2;
+	background-image: url(https://www.flaticon.com/svg/static/icons/svg/20/20176.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+#im2 {
+	background-color: #e8b5a2;
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/25/25973.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+#im3 {
+	background-color: #f0e2d2;
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/1138/1138610.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+#im4 {
+	background-color: #e8b5a2;
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/2285/2285645.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+#im5 {
+	background-color: #f0e2d2;
+	background-image: url(https://www.flaticon.com/svg/static/icons/svg/3324/3324959.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+#im6 {
+	background-color: #e8b5a2;
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/636/636034.svg);
+	background-size: 35%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position-y: 70%;
+	background-position-x: 50%;
+}
+section {
+	font-size: smaller;
+	text-align: center;
+}
+#contenedorGrande2 {
+	height: 100%;
+}
+#trabajosRose {
+	background-color: #f8f5f0;
+	padding-top: 1%;
+}
+#tituloTrabajos {
+	font-size: xx-large;
+	margin: 0%;
+	font-family: 'Playfair Display', serif;
+}
+#subtituloTrabajos {
+	font-family: 'Playfair Display', serif;
+	margin: 0%;
+}
+#datosPersonales {
+	background-color: #909fa2;
+	padding: 2%;
+}
+h4 {
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+	margin-bottom: 8%;
+}
+#contenedor2img1 {
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/636/636034.svg);
+	background-size: 45%;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-position-y: 5%;
+	background-position-x: 72%;
+}
+#contenedor2img2 {
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/2377/2377002.svg);
+	background-size: 45%;
+	background-repeat: no-repeat;
+	background-position: top;
+	background-position-y: 5%;
+	background-position-x: 72%;
+}
+#contenedor2img3 {
+	background-image: url(https://www.flaticon.es/svg/static/icons/svg/1792/1792523.svg);
+	background-size: 45%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: top;
+	background-position-y: 5%;
+	background-position-x: 72%;
+}
+td {
+	padding-left: 10%;
+}
+#contenedorAlLadoDeImagen {
+	height: 33vh;
+}
+#descripcionesDeTrabajos {
+	margin-top: 4%;
+	height: 70%;
+}
+#tituloYSubtitulo {
+	height: 30%;
+}
+.circulo {
+	cx: 62;
+	cy: 60;
+	r: 58;
+	/* cx: 60;
+	cy: 60;
+	r: 50; */
+}
+circle#uno {
+	fill: rgb(144, 159, 162);
+}
+circle#dos {
+	fill: rgb(100, 156, 164);
+}
+circle#tres {
+	fill: rgb(78, 117, 123);
+}
+#contenedorVirtudes {
+	padding: 3%;
+}
+#contenedorCaracteristicas {
+	padding: 3%;
+}
+h5 {
+	text-align: center;
+}
+table {
+	height: 75%;
+}
+svg {
+	width: 100%;
+	height: 70%;
+}
+h4#caracteristicas {
+	margin-bottom: 3%;
+}
+.unoUno {
+	cx: 62;
+	cy: 60;
+	r: 50;
+	fill: #c0c9ce;
+}
